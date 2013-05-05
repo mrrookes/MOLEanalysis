@@ -1,0 +1,4 @@
+MOLEanalysis
+============
+
+English text analizer
